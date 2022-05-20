@@ -7,7 +7,8 @@
       <span>@{{ event.time }} on {{ event.date }}</span>
       <h4>{{ event.title }}</h4>
       <p>{{ event.description }}</p>
-      <q>{{ event.location }}</q><br/>
+      <q>{{ event.location }}</q
+      ><br />
       <b>{{ event.organizer }}</b>
     </div>
   </router-link>
