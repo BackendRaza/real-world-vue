@@ -8,6 +8,7 @@
       <h4>{{ event.title }}</h4>
       <p>{{ event.description }}</p>
       <q>{{ event.location }}</q>
+      <b>{{ event.organizer }}</b>
     </div>
   </router-link>
 </template>
