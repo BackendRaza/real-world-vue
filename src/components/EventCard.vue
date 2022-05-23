@@ -39,6 +39,6 @@ export default {
 
 .link {
   text-decoration: none;
-  color: rgb(89, 145, 89);
+  color: #42b983;
 }
 </style>
